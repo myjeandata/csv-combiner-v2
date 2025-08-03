@@ -1,3 +1,15 @@
+# 📂 CSV Combiner
+
+This project merges multiple CSV files into a single file and provides a simple example analysis.
+
+이 프로젝트는 여러 개의 CSV 파일을 하나로 결합하고, 간단한 분석 예시를 함께 제공합니다.
+
+## 🔗 Files
+
+- `combine_files.py`: CSV 병합 스크립트
+- `combined_sales.csv`: 결합된 결과 파일
+- `README_ko.md`: 한글 분석 예시
+- `README_en.md`: English analysis sample
 # CSV 파일 병합기 (CSV Combiner)
 
 ## 프로젝트 개요
